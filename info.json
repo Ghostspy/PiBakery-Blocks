@@ -1,7 +1,7 @@
 {
   "version": 1.1,
   "compressedMD5": "621fa93d1509ee6aaa6dc382b3775518",
-  "downloadUrl": "https://github.com/Ghostspy/Pibakery-Blocks/releases/download/v0.1.1/pibakery-blocks.zip",
+  "downloadUrl": "https://github.com/Ghostspy/PiBakery-Blocks/releases/download/v0.1.1/pibakery-blocks.zip",
   "loadOrder": [
     "lemp",
     "memsplit",
